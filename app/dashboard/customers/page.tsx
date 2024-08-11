@@ -1,5 +1,5 @@
 const customers = () => {
-    return (<div>customersssssssssssssssssssssss page</div>);
+    return (<div>customers page</div>);
 }
 
 export default customers;
